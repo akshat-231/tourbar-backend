@@ -1,9 +1,0 @@
-{
-    "env": {
-        "DB_USER": "akshat",
-        "DB_PASSWORD": "J752ZLcEdUzNYqmg",
-        "DB_NAME": "mern",
-        "JWT_TOKEN": "this_string_is_optional",
-        "LOC_API_KEY": "pk.f93827c645603f82702148b013c082a7"
-    }
-}
